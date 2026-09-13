@@ -3,3 +3,5 @@ Hello Git!
 This is my first Git laboratory.
 
 I am learning Git and GitHub.
+
+Git records my changes.
