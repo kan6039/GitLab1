@@ -1,0 +1,28 @@
+git --version
+git config --global user.name "Kandarpa Kalita"
+git config --global user.email "kan6039@gmail.com"
+git config --global user.email
+git config --global user.name
+mkdir GitLab1
+cd GitLab1
+git init
+git status
+git add hello.txt
+git status
+git commit -m "First commit"
+fbfd0d3 First commit
+git log --oneline
+git status
+git diff
+git add hello.txt
+git status
+git commit -m "Updated hello file"
+git log --oneline
+git show fbfd0d3
+git diff fbfd0d3 137cfd3
+git status
+git add hello.txt
+git status
+git commit -m "Added another line"
+git log --oneline
+doskey /history > my_command_history.txt
