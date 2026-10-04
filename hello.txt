@@ -7,3 +7,5 @@ I am learning Git and GitHub.
 Git records my changes.
 
 Learning Github
+
+Git and GitHub are useful for version control.
